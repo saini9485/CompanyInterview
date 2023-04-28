@@ -1,0 +1,17 @@
+/* div p:first-child{
+    color:red
+} */
+/* div p:first-of-type{
+    color:red
+} */
+/* 
+div p:last-child{
+    color:rgb(0, 255, 85)
+} */
+/* p:nth-child(1){
+    color:red
+} */
+
+div:nth-child(1)>p:nth-child(1){
+color:red
+}
