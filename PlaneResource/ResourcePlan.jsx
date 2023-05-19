@@ -18,4 +18,4 @@ const projects = [
   },
 ];
 
-//   write a funcion how we can show top 5 project by culculating maximum hours  if we have multiple projets
+// write a funcion how we can show top 5 project by culculating maximum hours  if we have multiple projets
